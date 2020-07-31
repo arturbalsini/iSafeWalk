@@ -1,0 +1,1 @@
+@extends('zone.layout')
